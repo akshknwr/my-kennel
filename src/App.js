@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
     <Slider />
+    <h2>Welcome to our kennel club</h2>
       </header>
       <Owner />
     </div>
