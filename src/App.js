@@ -9,6 +9,7 @@ function App() {
       <header className="App-header">
     <Slider />
     <h2>Welcome to our kennel club</h2>
+    <h3>Since 2005</h3>
       </header>
       <Owner />
     </div>
